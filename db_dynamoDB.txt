@@ -1,11 +1,11 @@
 Category
 - Name : string - Key
-- Brands : [string] - Sort key
 - Products : [product]
 
 Product
 - Name : string - Key
-- TotalView : int -- Sort Key
+- Brand : string - Sort Key
+- TotalView : int
 - Color : int
 - Price : money
 - Status : bool
