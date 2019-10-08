@@ -1,17 +1,17 @@
 Category
 - Name : string - Key
-- Brands : [string] - Order key
+- Brands : [string] - Sort key
 - Products : [product]
 
 Product
 - Name : string - Key
-- Color : int - Order key
-- Price : money - Order key
+- TotalView : int -- Sort Key
+- Color : int
+- Price : money
 - Status : bool
 - Star : int
 - Description : string
 - Pictures : ["string_path"]
-- TotalView : int
 
 User
 - Email : string - Key
