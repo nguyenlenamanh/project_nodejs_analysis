@@ -5,7 +5,6 @@ Category
 Product
 - Name : string - Key
 - Brand : string - Sort Key
-- TotalView : int
 - Color : int
 - Price : money
 - Status : bool
