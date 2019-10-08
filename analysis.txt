@@ -1,0 +1,16 @@
+[Technical] The project will use:
+- DynamoDB for database
+- Amazon S3
+- NodeJS
+- View Engine: EJS
+
+[Project] The feature project must solve:
+- Home Page -> Display most viewed product
+- Shop -> Display product but paging, fileter
+- Page Detail -> Display information
+- Cart -> Add to cart, and cart page
+- Checkout -> Login and checkout
+- Search
+- Favourite -> Display favourite product (Both login and non login can use)
+- Login
+

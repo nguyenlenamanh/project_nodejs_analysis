@@ -1,0 +1,28 @@
+Category
+- Name : string - Key
+- Brands : [string] - Order key
+- Products : [product]
+
+Product
+- Name : string - Key
+- Color : int - Order key
+- Price : money - Order key
+- Status : bool
+- Star : int
+- Description : string
+- Pictures : ["string_path"]
+- TotalView : int
+
+User
+- Email : string - Key
+- First Name : string
+- Last Name : string
+- Country : string
+- Address : string
+- City : string
+- Zip Code : string
+- Phone number : string
+- Password : string
+- Salt : string
+- Carts : [Product]
+- Favourites : [Product]
